@@ -31,5 +31,17 @@ def using_concat(array1,array2)
 end  
 
 def using_insert(arr,element)
+  new_element = 
   arr.insert(0,3)
 end
+
+
+
+
+
+
+
+
+
+
+
