@@ -22,4 +22,7 @@ def using_shift(arr)
   return arr.shift()
 end
 
-def 
+def shift_with_args(arr)
+  return arr.shift(2)
+end
+  
