@@ -31,7 +31,7 @@ def using_concat(array1,array2)
 end  
 
 def using_insert(arr,element)
-  new_element = arr.insert(4,3)
+  new_element = arr.insert(4,"Malbolge")
   return new_element
 end
 
